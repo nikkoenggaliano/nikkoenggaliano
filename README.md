@@ -1,19 +1,30 @@
-### Halo selamat datang di Profile Github Nikko Enggaliano 👋
+### 안녕하세요 여러분!  Welcome to my Github Profile, My name is Nikko Enggaliano 👋
 
-<!--
-**nikkoenggaliano/nikkoenggaliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/mA7p3Yv44SM9hGiBKd/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🔭 I'm Currently working as **IT Security Analyst** on  **PT ###### **  and like to code PHP, JS and Python.
+
+🌱 I’m currently learning optimized code, scalability and Cyber Security.
+
+💬 Ask me about **everything** i will answer as far as i can.
+
+📫 How to reach me: nikkoenggaliano@gmail.com.
+
+
+
+![](https://media.giphy.com/media/USDLzEBaDObgWuWywy/giphy.gif)
+
+⚡ Fun fact: I love K-Pop more than my Girlfriend, sorry baby iam joking. 
+
+
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikkoenggaliano&show_icons=true&theme=radical" />
+
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkoenggaliano&theme=buefy" />
