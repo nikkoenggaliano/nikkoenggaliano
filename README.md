@@ -6,7 +6,7 @@
 
 
 
-🔭 I'm Currently working as **IT Security Analyst** on  **PT ###### **  and like to code PHP, JS and Python.
+🔭 I'm Currently working as **IT Security Analyst** on  **PT ######**  and like to code PHP, JS and Python.
 
 🌱 I’m currently learning optimized code, scalability and Cyber Security.
 
